@@ -1,6 +1,0 @@
-bin/
-build/
-*.apk
-*.dex
-.gradle/
-local.properties
